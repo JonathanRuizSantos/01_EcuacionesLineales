@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jon_r\\Documents\\Agentes Expertos de Inteligencia\\SistemasEcuaciones\\SistemasEcuaciones.csproj": {}
+    "C:\\Users\\jon_r\\Documents\\Agentes_Expertos_de_Inteligencia\\SistemasEcuaciones\\SistemasEcuaciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jon_r\\Documents\\Agentes Expertos de Inteligencia\\SistemasEcuaciones\\SistemasEcuaciones.csproj": {
+    "C:\\Users\\jon_r\\Documents\\Agentes_Expertos_de_Inteligencia\\SistemasEcuaciones\\SistemasEcuaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jon_r\\Documents\\Agentes Expertos de Inteligencia\\SistemasEcuaciones\\SistemasEcuaciones.csproj",
+        "projectUniqueName": "C:\\Users\\jon_r\\Documents\\Agentes_Expertos_de_Inteligencia\\SistemasEcuaciones\\SistemasEcuaciones.csproj",
         "projectName": "SistemasEcuaciones",
-        "projectPath": "C:\\Users\\jon_r\\Documents\\Agentes Expertos de Inteligencia\\SistemasEcuaciones\\SistemasEcuaciones.csproj",
+        "projectPath": "C:\\Users\\jon_r\\Documents\\Agentes_Expertos_de_Inteligencia\\SistemasEcuaciones\\SistemasEcuaciones.csproj",
         "packagesPath": "C:\\Users\\jon_r\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jon_r\\Documents\\Agentes Expertos de Inteligencia\\SistemasEcuaciones\\obj\\",
+        "outputPath": "C:\\Users\\jon_r\\Documents\\Agentes_Expertos_de_Inteligencia\\SistemasEcuaciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

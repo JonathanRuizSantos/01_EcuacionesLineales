@@ -16,3 +16,21 @@ C:\Users\jon_r\Documents\Agentes Expertos de Inteligencia\SistemasEcuaciones\obj
 C:\Users\jon_r\Documents\Agentes Expertos de Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.genruntimeconfig.cache
 C:\Users\jon_r\Documents\Agentes Expertos de Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\ref\SistemasEcuaciones.dll
 C:\Users\jon_r\Documents\Agentes Expertos de Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.Properties.Resources.resources
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\bin\Debug\net6.0-windows\SistemasEcuaciones.exe
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\bin\Debug\net6.0-windows\SistemasEcuaciones.deps.json
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\bin\Debug\net6.0-windows\SistemasEcuaciones.runtimeconfig.json
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\bin\Debug\net6.0-windows\SistemasEcuaciones.dll
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\bin\Debug\net6.0-windows\SistemasEcuaciones.pdb
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.Form1.resources
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.Properties.Resources.resources
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.AssemblyInfoInputs.cache
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.AssemblyInfo.cs
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.dll
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\refint\SistemasEcuaciones.dll
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.pdb
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\SistemasEcuaciones.genruntimeconfig.cache
+C:\Users\jon_r\Documents\Agentes_Expertos_de_Inteligencia\SistemasEcuaciones\obj\Debug\net6.0-windows\ref\SistemasEcuaciones.dll
