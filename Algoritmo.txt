@@ -1,1 +1,88 @@
-5x+2x+4x+3 = 6x + 2
+Ejemplos Probados: 
+
+5x+2x+4x+3 = 6x+2 --> ok
+11x+3 = 6x+2
+11x-6x = 2-3
+5x = -1
+x = -1/5 = -0.2
+
+x+2+4x-2x-1-3x = 7x-4-2x --> ok
+1 = 5x-4
+-5x = -4-1
+-5x = -5
+x = -5/-5 = 1
+
+-x+2+4x-2x-1-3x = 7x-4-2x --> ok
+-2x+1 = 5x-4
+-2x-5x = -4-1
+-7x = -5
+x = 0.7142
+
+-3x+2+4x-2x-1-3x = 7x-4-2x --> 0.555 --> ok
+
+x+2+4x-2x-1-3x = x-4-2x+9 --> ok
+0x+1 = -x+5
+0x+1x = 5-1
+x = 4
+
+6x+3-4x+2x-8-2x = x-6+3x+2x-5-5x --> x = -6 --> ok
+
+x+2+7x-5-2x-x+5 = 7-2x+4+4x-8x --> x = 0.8182 --> ok
+
+-x-2x-7+x-2x+4 = 4x+8+4-9+5x-6x --> x = -0.8571 --> ok
+
+5+3x+4x-7x-2+4+7x-2x = x+7-5x-2x+7-8+2x --> x = -0.1111 --> ok
+
+8x+4+5x-3x+2-6x-5x+7-9x+5x+7x = -5+4x+8+2 --> x = 4 --> ok
+
+-x+4+3x+4x+5-7x-x-5x = 6+7-8x+2x+2x-7 --> x = 1 --> ok
+
+4x+8+4-9+5x-6x = -5-2x-4x-6-8-6+x --> x = -3.5 --> ok
+
+x+2+7x-5-2x-x+5 = -x-2+3x-4x+5-7x-x-5x --> x = 0.05 --> ok
+
+-------------------------------
++5x-2x-4x-3
++5x-2x-4x-3+6+7+4x
+-5x+2x+4x+3
+-5+3x+8-2x
++5x+2x+4+03
+
+Algoritmo de solucion
+
+1.- Guardar la cadena en una variable string
+2.- Descomponer la cadena en un array
+2.1.- Crear copia del array anterior que contiene la cadena despompuesta
+2.2.- Si la posicion 0 del array es un numero o una "X" ponle el signo "+" y guardarlo en un nuevo array
+	que tambien contiene los elementos del array original -> Revisa que si tiene + o menos le ponga
+ el signo, lo puedes hacer con una variable signo, por ejemplo:  signo = 1 o signo = -1 segun el caso.
+ se resuelve con un if y un else
+(3.- Recorrer nuevo array para buscar donde hay un primer signo) No lo usamos
+4.- Seguir recorriendo la cadena hasta encontrar otro signo "+" o "-"
+5.- Si j-3 es  "+" && j-1 es "X" Guarda el elemento j-2 en array sumax , Sino j-3 es "-" && j-1 es "X" guarda el elemento
+   j-2 en array restax, Sino j-2 es "+" guarda el elemento j-1 en un nuevo array suma, sino j-2 es "-" y guarda el elemento
+   j-1 en un nuevo array resta.
+6.- Sumar los elementos del array Sumax y guardarlo en una variable
+7.- Sumar los elementos del array Suma y guardarlo en una variable
+8.- Sumar los lementos del array Restax y guardarlo en una variable
+9.- Sumar los elementos del array Resta y guardarlo en una variable
+10.- A array Sumax restarle Restax y guardarlo en una variable --> Ax
+11.- A array Suma restarle Resta y guardarlo en una variable --> B
+12.- Repetir los pasos del 1 al 11 para la cadena del lado derecho donde array SumaDerX--> Cx y SumaDer-->D
+13.- Restar Cx a Ax y guardarlo en una nueva variable --> Rx
+14.- Restar B a D y guardarlo en una nueva variable --> Ri
+15.- Si R es igual a cero salta un Mensage "El denomidaro es Cero por lo que no tiene solucion"
+16.- Hacemos la divicion Ri/R y guardamos el resultado en Resultado_Final
+
+---------------------------------------------------------------------------------------------------------------------------------
+Ax --> Cx -->Rx  = Ax-Cx
+B --> D -->Ri = D-B
+
+Rx = Ri -->(Esto no se programa)
+
+x = Ri/R --> donde R es es el coeficiente despejado
+
+Ejemplos de Rx
+2X
++2X
+-2X

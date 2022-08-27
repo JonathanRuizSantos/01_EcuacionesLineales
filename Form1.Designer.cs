@@ -57,10 +57,10 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.Location = new System.Drawing.Point(24, 72);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(89, 23);
+            this.label3.Size = new System.Drawing.Size(98, 25);
             this.label3.TabIndex = 2;
             this.label3.Text = "Ecuacion :";
             // 
@@ -84,10 +84,10 @@
             // 
             // tbEcuations
             // 
-            this.tbEcuations.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.tbEcuations.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.tbEcuations.Location = new System.Drawing.Point(111, 69);
             this.tbEcuations.Name = "tbEcuations";
-            this.tbEcuations.Size = new System.Drawing.Size(162, 30);
+            this.tbEcuations.Size = new System.Drawing.Size(162, 31);
             this.tbEcuations.TabIndex = 7;
             // 
             // label5
@@ -102,10 +102,10 @@
             // btCalcular
             // 
             this.btCalcular.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.btCalcular.Font = new System.Drawing.Font("Segoe UI", 10.2F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.btCalcular.Font = new System.Drawing.Font("Segoe UI", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btCalcular.Location = new System.Drawing.Point(374, 143);
             this.btCalcular.Name = "btCalcular";
-            this.btCalcular.Size = new System.Drawing.Size(94, 29);
+            this.btCalcular.Size = new System.Drawing.Size(94, 36);
             this.btCalcular.TabIndex = 10;
             this.btCalcular.Text = "Calcular";
             this.btCalcular.UseVisualStyleBackColor = false;
@@ -113,21 +113,21 @@
             // 
             // tbX
             // 
-            this.tbX.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.tbX.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.tbX.Location = new System.Drawing.Point(312, 105);
             this.tbX.Name = "tbX";
             this.tbX.ReadOnly = true;
-            this.tbX.Size = new System.Drawing.Size(162, 30);
+            this.tbX.Size = new System.Drawing.Size(162, 31);
             this.tbX.TabIndex = 11;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
-            this.label6.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label6.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label6.Location = new System.Drawing.Point(263, 108);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(43, 23);
+            this.label6.Size = new System.Drawing.Size(47, 25);
             this.label6.TabIndex = 12;
             this.label6.Text = "X = ";
             // 
@@ -135,28 +135,31 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(274, 72);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(32, 23);
+            this.label2.Size = new System.Drawing.Size(35, 25);
             this.label2.TabIndex = 13;
             this.label2.Text = " = ";
             // 
             // tbDer
             // 
-            this.tbDer.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.tbDer.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.tbDer.Location = new System.Drawing.Point(312, 69);
             this.tbDer.Name = "tbDer";
-            this.tbDer.Size = new System.Drawing.Size(162, 30);
+            this.tbDer.Size = new System.Drawing.Size(162, 31);
             this.tbDer.TabIndex = 14;
             // 
             // lbtest
             // 
+            this.lbtest.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.lbtest.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbtest.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.lbtest.FormattingEnabled = true;
-            this.lbtest.ItemHeight = 20;
-            this.lbtest.Location = new System.Drawing.Point(12, 164);
+            this.lbtest.ItemHeight = 25;
+            this.lbtest.Location = new System.Drawing.Point(40, 185);
             this.lbtest.Name = "lbtest";
-            this.lbtest.Size = new System.Drawing.Size(318, 104);
+            this.lbtest.Size = new System.Drawing.Size(396, 129);
             this.lbtest.TabIndex = 15;
             // 
             // Form1
@@ -165,7 +168,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::SistemasEcuaciones.Properties.Resources.Fondo2;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(480, 308);
+            this.ClientSize = new System.Drawing.Size(480, 327);
             this.Controls.Add(this.lbtest);
             this.Controls.Add(this.tbDer);
             this.Controls.Add(this.label2);
